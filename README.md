@@ -19,5 +19,3 @@ A simple Notepad application built using Java Swing with basic text editing feat
 
 2. Run:
    java Notepad
-
-## 📌 Project Structure
